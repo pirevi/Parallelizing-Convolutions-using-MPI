@@ -1,0 +1,2 @@
+# Parallelizing-Convolutions-using-MPI
+The following files are of a project that has been done for the partial fulfillment of High Performance Scientific Computing Course (ME766 at IIT Bombay). We have parallelized convolution operation using MPI programming in C, The code was compiled and executed on the PARAM Sanganak Super-Computer at IIT Kanpur remotely. Please go through the attached PDF file for detailed description.
